@@ -1,6 +1,6 @@
 ### I'm PhaseRush 👋. Thanks for visiting my portfolio.
 
-I'm a return intern at [AWS Canada](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (Vancouver represent!), and a rising senior at UBC studying CS.
+I'm a return intern at [AWS Canada](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (Vancouver represent!), and a senior at UBC studying CS.
 
 I enjoy learning new languages and technologies; currently, I'm rewriting one of my popular discord bots in Python.
 
