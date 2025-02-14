@@ -1,7 +1,5 @@
 ### I'm PhaseRush 👋. Thanks for visiting my portfolio.
 
-I'm an engineer at [AWS Canada](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (Vancouver represent!), and an alumni of UBC CS.
-
 I enjoy learning new languages and technologies; currently, I'm working on mentoring students and helping them reach their dreams.
 
 
